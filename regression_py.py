@@ -44,4 +44,5 @@ print(predictions)
 from sklearn.metrics import confusion_matrix
 c = confusion_matrix(y_test, P)
 print(c)
+#new comment
 # Accuracy = 79.65
